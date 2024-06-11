@@ -1,0 +1,33 @@
+/* theme.css */
+body {
+    background-color: #f7ca6b;
+    background-size: cover;
+    color: #000000; /* Black text */
+    font-family: 'Helvetica', sans-serif;
+}
+.stContainer {
+    background-color: #554242; /* White background for main content area */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+}
+
+.stButton>button {
+    color: black;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 16px;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+
+.stTextInput>div>div>input {
+    border-radius: 8px;
+    padding: 10px;
+    font-family: 'Times New Roman', serif;
+}
+
+.stTable {
+    background-color: #fa5a5a;
+    border-radius: 8px;
+    font-family: 'Times New Roman', serif;
+    font-size: 14px;
+}
