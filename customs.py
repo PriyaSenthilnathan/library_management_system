@@ -5,6 +5,8 @@ color_4 = "white"
 color_5 = "red"
 color_6 = "green3"
 color_7 = "yellow"
+
+
 font_1 = "times new roman"
 font_2 = "helvetica"
 
